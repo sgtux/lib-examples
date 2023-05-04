@@ -1,0 +1,1 @@
+create table cidade(id serial primary key, nome varchar(100), descricao varchar(100))
